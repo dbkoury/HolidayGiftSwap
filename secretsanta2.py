@@ -11,7 +11,7 @@ import smtplib
 
 #read excel file into python with names and emails
 people = ['Ya Boi', 'Harambe']
-email = ['bloomidknight27@gmail.com','dbkoury@email.wm.edu']
+email = ['fakeemail@us.gov','tomhanks@aol.com']
 emailid = 'EMAIL_ID'
 emailpass = 'EMAIL_PASSWORD'
 
